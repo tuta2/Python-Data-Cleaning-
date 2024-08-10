@@ -1,2 +1,2 @@
 # Python-Data-Cleaning-
-Python Jupyta Notebook (Data Cleaning)
+Python Jupyter Notebook (Data Cleaning)
